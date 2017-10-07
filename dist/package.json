@@ -1,0 +1,10 @@
+{
+ "name": "kfc-dyspozycje",
+ "version": "1.0.0",
+ "description": "kfc-dyspozycje",
+ "author": "kfc.dyspozycje@gmail.com",
+ "private": true,
+ "scripts": {
+   "postinstall": "npm install express"
+ }
+}
